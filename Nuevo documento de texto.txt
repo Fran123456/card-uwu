@@ -1,0 +1,1 @@
+git remote add origin https://github.com/Fran123456/card-uwu.git
